@@ -138,4 +138,4 @@ data;categoria;descricao;valor;tipo;forma_pagamento
 
 ## 🙌 Créditos
 
-Desenvolvido por [Lucas Sobra de Morais](https://www.linkedin.com/in/lucas-sobrall/) com foco em **boas práticas backend, ETL e visualização de dados**.
+Desenvolvido por [Lucas Sobral de Morais](linkedin.com/in/lucas-sobrall) com foco em **boas práticas backend, ETL e visualização de dados**.
